@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://satoya-sendai.github.io/sitemap.xml 
